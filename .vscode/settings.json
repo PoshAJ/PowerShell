@@ -7,7 +7,10 @@
     "editor.guides.bracketPairsHorizontal": true,
     "editor.guides.highlightActiveBracketPair": true,
     "editor.insertSpaces": true,
+    "editor.minimap.enabled": false,
+    "editor.tabCompletion": "on",
     "editor.tabSize": 4,
+    "files.defaultLanguage": "${activeEditorLanguage}",
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
@@ -19,6 +22,7 @@
     "powershell.codeFormatting.whitespaceBeforeOpenParen": true,
     "powershell.codeFormatting.whitespaceBetweenParameters": true,
     "powershell.codeFormatting.whitespaceInsideBrace": true,
+    "telemetry.telemetryLevel": "off",
     "workbench.colorCustomizations": {
         "editorBracketHighlight.foreground1": "#8b949e",
         "editorBracketHighlight.foreground2": "#79c0ff",
